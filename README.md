@@ -50,7 +50,7 @@ weather-now/
 
 ⚡ Installation & Setup
 1️⃣ Clone the repo
-git clone https://github.com/your-username/weather-now.git
+https://github.com/abhishekmandal669/weather-app
 cd weather-now
 
 2️⃣ Install dependencies
